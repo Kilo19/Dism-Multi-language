@@ -1,29 +1,32 @@
 <Strings>
   <String Src="%lang%" Dst="en"/>
-  <String Src="%description%" Dst="Dism++ can be considered as an GUI version of DISM, WinSxS Clean, Installer Clean, Add Update and Drive..."/>
-  <String Src="%keywords%" Dst="Dism++,Dism GUI,WinSxS Cleanup,Windows Update Cleanup Tool,System Cleanup,Windows Update Clean,vista,win7,win8,win8.1,win10,Chuyu,dism,Add Update"/>
-  <String Src="%title%" Dst="Dism++ | New Windows Utility"/>
-  <String Src="%String1%" Dst="Dism++, the most powerful utility"/>
+  <!--中文里同时有固化补丁与集成更新，二者是否重复？-->
+  <String Src="%description%" Dst="Chuyu Dism++ is a GUI version of DISM. It can clean WinSxS and Installer, integrate updates and drivers offline, and much more."/>
+  <String Src="%keywords%" Dst="Dism++,Dism GUI,WinSxS Cleanup,Windows Update Cleanup Tool,System Cleanup,Windows Update Clean,vista,win7,win8,win8.1,win10,Chuyu,dism,Integrate Update"/>
+  <String Src="%title%" Dst="Dism++ | A Whole New Windows Utility"/>
+  <String Src="%String1%" Dst="Dism++, perhaps the most powerful utility"/>
   <String Src="%String2%" Dst="The first Dism GUI implementation based on CBS in the world!"/>
   <String Src="%64Bit%" Dst="Dism++ 64Bit"/>
   <String Src="%32Bit%" Dst="Dism++ 32Bit"/>
   <String Src="%Full%" Dst="Dism++ Full(32/64)"/>
   <String Src="%SupportSystem%" Dst="Compatible with Windows Vista/7/8/8.1/10"/>
   <String Src="%AboutDism++%" Dst="About Dism++"/>
-  <String Src="%AboutDism++Des%" Dst="Dism++ can be considered as an GUI version of DISM, but it does not depend on MS DISM, and based directly on the lower-level CBS( Component Based Servicing Reference )."/>
-  <String Src="%OpenSourceStr%" Dst="Open source is not only a spirit, but also a symbol of strength. View the Chuyu Team's open source project &lt;span onclick=&quot;window.location.href='https://github.com/Chuyu-Team'&quot; style=&quot;color:blue;cursor:pointer&quot;>Check Me&lt;/span>。"/>
-  <String Src="%SxSClean%" Dst="Windows Update Clean"/>
-  <String Src="%SxSCleanDes%" Dst="Windows update clean Tidy,NO Residue!"/>
-  <String Src="%CompactOSDes%" Dst="Save up 33% space without slimming down OS."/>
+  <String Src="%AboutDism++Des%" Dst="Dism++ can be considered as a GUI version of DISM, but it does not depend on MS DISM, and is based directly on the lower-level CBS( Component Based Servicing Reference )."/>
+  <String Src="%OpenSourceStr%" Dst="Open source is not only a virtue, but also a symbol of strength. View Chuyu Team's open source projects &lt;span onclick=&quot;window.location.href='https://github.com/Chuyu-Team'&quot; style=&quot;color:blue;cursor:pointer&quot;>Check Me&lt;/span>。"/>
+  <String Src="%SxSClean%" Dst="Windows Update Cleaning"/>
+  <String Src="%SxSCleanDes%" Dst="No longer worry about drive capacity when installing updates!"/>
+  <!--中文没有“至多”(up to)-->
+  <String Src="%CompactOSDes%" Dst="Save 33% of space without trimming down the OS."/>
   <String Src="%EsdSupport%" Dst="ESD Support"/>
-  <String Src="%EsdSupportDes%" Dst="No worrying for trans format ESD to ISO."/>
-  <String Src="%WindowsUpdateDes%" Dst="My Windows Update, my way~~Worry-free updates."/>
+  <String Src="%EsdSupportDes%" Dst="Converts ESD to ISO with zero hassle."/>
+  <String Src="%WindowsUpdateDes%" Dst="Update Windous in my way~~Worry-free updates."/>
   <String Src="%SystemRecover%" Dst="System Recovery"/>
-  <String Src="%SystemRecoverDes%" Dst="Warm backup for OS, Warm restore without PE!"/>
-  <String Src="%Green%" Dst="Green!"/>
-  <String Src="%GreenDes%" Dst="GREEN portable,FREE, SAFE,NON-ads."/>
+  <!--热备份是Hot backup, warm backup介于冷备份与热备份之间-->
+  <String Src="%SystemRecoverDes%" Dst="Hot backup for OS, Warm restore without PE!"/>
+  <String Src="%Green%" Dst="100% Green Software"/>
+  <String Src="%GreenDes%" Dst="Portable, ad-free, backdoor-free, trustworthy."/>
   <String Src="%AboutChuyu%" Dst="About Chuyu Team"/>
-  <String Src="%AboutChuyuDes%" Dst="Actually we are all some obsessive in late period, simply requesting a tool that is light, practical, straightforward, not malwaring, not pretending pity and not nagging. No result for some time but we didn’t give up as we realize such a dream with our own hands by building up Dism++: a small tool non-profit, not artificial, not herd-following, built with purely persistence and enthusiasts."/>
+  <String Src="%AboutChuyuDes%" Dst="Actually we all suffer from OCD to the core. We simply wanted to find a tool that is light, handy, transparent, not trying to be a dick, pretending pity, or nagging, and to no avail. We didn't give up. We realized such a dream with our own hands by building up Dism++: a genuine, not-for-profit small utility that refuses to follow the crowd, built with pure persistence and enthusiasm."/>
   <String Src="%QQ%" Dst="QQ Group"/>
   <String Src="%E-Mail%" Dst="E-mail"/>
   <String Src="%Links%" Dst="Links"/>
